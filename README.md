@@ -2,4 +2,4 @@
 Vobo Cloud Reminder Plugin
 
 
-Please copy the chat folder into "App> Main> Plugin"
+Please copy the reminder folder into "App> Main> Plugin"
